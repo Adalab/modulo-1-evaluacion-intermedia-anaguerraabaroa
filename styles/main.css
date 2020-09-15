@@ -1,3 +1,5 @@
+/*reset*/
+
 * {
   margin: 0;
   padding: 0;
@@ -8,16 +10,18 @@
 /*header*/
 
 .header {
+  position: fixed;
+  top: 0;
   width: 100%;
-  padding: 10px 13px;
+  padding: 10px 0 3px 0;
+  background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
-.logo {
-  width: 155px;
+.menu-item {
+  display: inline-block;
 }
 
 .list {
@@ -26,12 +30,13 @@
 }
 
 .link {
+  display: inline-block;
   color: #4a4a4a;
   font-size: 16px;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
-  padding: 10px 20px 0 0;
+  padding: 10px 20px 13px;
 }
 
 /*main*/
@@ -53,6 +58,7 @@
   color: #ffffff;
   font-size: 30px;
   font-weight: bold;
+  text-transform: capitalize;
 }
 
 /*media*/
@@ -61,11 +67,7 @@
   .header {
     flex-direction: row;
     justify-content: space-between;
-    padding: 20px 0 20px 30px;
-  }
-
-  .link {
-    padding-right: 30px;
+    padding: 20px 30px 20px 30px;
   }
 
   .title-inner {
