@@ -21,7 +21,7 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 - Fixed header with a inline logo and navigation menu
 - Main section with a background color and centered title
 - Responsive web design for mobile and tablet/desktop devices
-- Rubik typography and colors palette
+- Rubik typography and defined colors palette
 
 ## **Folder Structure**
 
