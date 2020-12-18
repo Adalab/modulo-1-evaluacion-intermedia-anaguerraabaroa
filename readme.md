@@ -15,7 +15,7 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 - [**HTML5**](https://html.spec.whatwg.org/)
 - [**CSS3**](https://www.w3.org/Style/CSS/)
 
-## **Development requirements**
+## **Exercise development requirements**
 
 - HTML semantic elements
 - Fixed header with a inline logo and navigation menu
