@@ -39,7 +39,7 @@ AdalabLandingPage
 
 ```
 git add -A
-git commit -m "[commit here your changes]"
+git commit -m "Message commit"
 git push
 ```
 
