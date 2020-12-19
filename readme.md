@@ -2,7 +2,7 @@
 
 Half module 1 exercise of the Adalab Digital Frontend Development Bootcamp.
 
-This is a responsive landing page developed with HTML5 and CSS3.
+This is a responsive landing page developed with `HTML5` and `CSS3`.
 
 ## **Installation**
 
@@ -12,8 +12,8 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 
 ## **Development technologies**
 
-- [**HTML5**](https://html.spec.whatwg.org/)
-- [**CSS3**](https://www.w3.org/Style/CSS/)
+- [`**HTML5**`](https://html.spec.whatwg.org/)
+- [`**CSS3**`](https://www.w3.org/Style/CSS/)
 
 ## **Exercise development requirements**
 
