@@ -28,7 +28,9 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 ```
 AdalabLandingPage
 ├── images
-│   └── adalab-logo-155x61.png
+│   ├── adalab-logo-155x61.png
+│   ├── landing_mobile.jpg
+│   └── landing_tablet.jpg
 ├── styles
 │   └── main.css
 ├── index.html
