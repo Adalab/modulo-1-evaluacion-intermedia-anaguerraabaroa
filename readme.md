@@ -18,7 +18,7 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 ## **Exercise development requirements**
 
 - HTML semantic elements
-- Fixed header with a inline logo and navigation menu
+- Fixed header with a logo and a inline navigation menu
 - Main section with a background color and centered title
 - Responsive web design for mobile and tablet/desktop devices
 - Rubik typography and defined colors palette
