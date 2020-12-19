@@ -12,8 +12,8 @@ Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also 
 
 ## **Development technologies**
 
-- [`**HTML5**`](https://html.spec.whatwg.org/)
-- [`**CSS3**`](https://www.w3.org/Style/CSS/)
+- `[**HTML5**](https://html.spec.whatwg.org/)`
+- `[**CSS3**](https://www.w3.org/Style/CSS/)`
 
 ## **Exercise development requirements**
 
