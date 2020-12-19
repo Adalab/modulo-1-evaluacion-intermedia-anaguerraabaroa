@@ -34,7 +34,7 @@ AdalabLandingPage
 ├── styles
 │   └── main.css
 ├── index.html
-└── readme.md
+└── README.md
 ```
 
 ## **Deployment**
