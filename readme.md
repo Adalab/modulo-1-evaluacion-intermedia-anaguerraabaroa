@@ -1,3 +1,5 @@
+![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+
 # **AdalabLandingPage**
 
 Half module 1 exercise of the Adalab Digital Frontend Development Bootcamp.
