@@ -45,3 +45,7 @@ git push
 ## **Result**
 
 ![Mobile version](./images/landing_mobile.jpg) ![Tablet version](./images/landing_tablet.jpg)
+
+## **License**
+
+This project is licensed under [**MIT License**](https://spdx.org/licenses/MIT.html).
