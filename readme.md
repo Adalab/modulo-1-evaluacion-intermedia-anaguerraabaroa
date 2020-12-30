@@ -35,7 +35,7 @@ AdalabLandingPage
 └── README.md
 ```
 
-## **Deployment**
+## **Updating**
 
 ```
 git add -A
