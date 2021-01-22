@@ -12,7 +12,7 @@ Clone repository and open project on a browser with VSCode live server plugin.
 
 Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also available on GitHub Pages.
 
-## **Exercise features**
+## **Project features**
 
 - HTML semantic elements
 - Fixed header with a logo and a inline navigation menu
