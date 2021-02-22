@@ -43,7 +43,7 @@ git commit -m "Message commit"
 git push
 ```
 
-## **Project captures**
+## **Screenshots**
 
 ![Mobile version](./images/landing_mobile.jpg) ![Tablet version](./images/landing_tablet.jpg)
 
