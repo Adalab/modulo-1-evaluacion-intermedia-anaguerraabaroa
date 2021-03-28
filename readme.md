@@ -1,6 +1,6 @@
 ![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
 
-# **AdalabLandingPage**
+# **Adalab Landing Page**
 
 Half module 1 project of the Adalab Digital Frontend Development Bootcamp.
 
@@ -10,7 +10,7 @@ This is a responsive landing page developed with [<img src = "https://img.shield
 
 Clone repository and open project on a browser with VSCode live server plugin.
 
-Project **[URL](https://anaguerraabaroa.github.io/AdalabLandingPage/)** is also available on GitHub Pages.
+Project **[URL](https://anaguerraabaroa.github.io/adalab-landing-page/)** is also available on GitHub Pages.
 
 ## **Project features**
 
