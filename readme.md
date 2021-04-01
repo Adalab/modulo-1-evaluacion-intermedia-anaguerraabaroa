@@ -1,4 +1,4 @@
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+![Mobile version](./images/landing_mobile.png) ![Tablet version](./images/landing_tablet.png) ![Desktop version](./images/landing_desktop.png)
 
 # **Adalab Landing Page**
 
@@ -26,8 +26,9 @@ Project **[URL](https://anaguerraabaroa.github.io/adalab-landing-page/)** is als
 Adalab Landing Page
 ├── images
 │   ├── adalab-logo-155x61.png
-│   ├── landing_mobile.jpg
-│   └── landing_tablet.jpg
+│   ├── landing_desktop.png
+│   ├── landing_mobile.png
+│   └── landing_tablet.png
 ├── styles
 │   └── main.css
 ├── index.html
@@ -42,10 +43,6 @@ git add -A
 git commit -m "Message commit"
 git push
 ```
-
-## **Screenshots**
-
-![Mobile version](./images/landing_mobile.jpg) ![Tablet version](./images/landing_tablet.jpg)
 
 ## **License**
 
