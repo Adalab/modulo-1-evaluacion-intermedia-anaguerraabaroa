@@ -23,7 +23,7 @@ Project **[URL](https://anaguerraabaroa.github.io/adalab-landing-page/)** is als
 ## **Folder Structure**
 
 ```
-AdalabLandingPage
+Adalab Landing Page
 ├── images
 │   ├── adalab-logo-155x61.png
 │   ├── landing_mobile.jpg
