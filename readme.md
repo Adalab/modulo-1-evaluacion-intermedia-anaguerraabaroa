@@ -6,22 +6,7 @@
 
 Half module 1 project of the Adalab Digital Frontend Development Bootcamp.
 
-This is a responsive landing page developed with:
-
-<div align="center">
- <a href="https://html.spec.whatwg.org/"
-    ><img
-      title="HTML"
-      alt="HTML"
-      src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  /></a>
-  <a href="https://www.w3.org/Style/CSS/"
-    ><img
-      title="CSS"
-      alt="CSS"
-      src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  /></a>
-</div>
+This is a responsive landing page developed with[<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://html.spec.whatwg.org/) and [<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/)
 
 [**Project URL**](https://anaguerraabaroa.github.io/adalab-landing-page/) is available on GitHub Pages.
 
