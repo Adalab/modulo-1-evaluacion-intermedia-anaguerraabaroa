@@ -20,7 +20,7 @@ git clone [repository]
 
 - Run project on local server with VSCode live server plugin.
 
--  [**Project URL**](https://anaguerraabaroa.github.io/adalab-landing-page/) is also available on GitHub Pages.
+- [**Project URL**](https://anaguerraabaroa.github.io/adalab-landing-page/) is also available on GitHub Pages.
 
 ## **Project features**
 
@@ -48,4 +48,4 @@ Adalab Landing Page
 
 ## **License**
 
-This project is licensed under [**MIT License**](https://spdx.org/licenses/MIT.html).
+This project is licensed under ![GitHub](https://img.shields.io/github/license/anaguerraabaroa/random-number?label=License&logo=MIT&style=for-the-badge)
