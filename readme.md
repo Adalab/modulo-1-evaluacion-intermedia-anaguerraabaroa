@@ -22,7 +22,7 @@ git clone [repository]
 
 - [**Project URL**](https://anaguerraabaroa.github.io/adalab-landing-page/) is also available on GitHub Pages.
 
-## **Project features**
+## **Features**
 
 - HTML semantic elements
 - Fixed header with a logo and a inline navigation menu
