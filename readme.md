@@ -20,7 +20,7 @@ git clone [repository]
 
 - Run project on local server with VSCode live server plugin.
 
-- Project **[URL](https://anaguerraabaroa.github.io/adalab-landing-page/)** is also available on GitHub Pages.
+-  [**Project URL**](https://anaguerraabaroa.github.io/adalab-landing-page/) is also available on GitHub Pages.
 
 ## **Project features**
 
@@ -44,14 +44,6 @@ Adalab Landing Page
 ├── index.html
 ├── LICENSE
 └── README.md
-```
-
-## **Updating**
-
-```
-git add -A
-git commit -m "Message commit"
-git push
 ```
 
 ## **License**
